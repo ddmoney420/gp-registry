@@ -1,0 +1,6 @@
+format = "1"
+name = "ddmoney420-registry"
+root = ""
+signing = []
+namespaces = ["ddmoney420"]
+mirrors = []
