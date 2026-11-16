@@ -1,7 +1,7 @@
 format = "1"
 registry = "ddmoney420-registry"
-signed = "2026-11-16T15:07:31Z"
-expires = "2026-11-23T15:07:31Z"
+signed = "2026-11-16T16:54:15Z"
+expires = "2026-11-23T16:54:15Z"
 
 [[line]]
 package = "ddmoney420/orangutan-arcade"
@@ -25,4 +25,16 @@ title = "Orangutan Arcade"
 package = "ddmoney420/orangutan-arcade-diaper"
 version = "0.1.7"
 id = "33de28f6e9c4af8f7526486f752760d9eae06c187fa58d56e0560b008af02fc1"
+title = "Orangutan Arcade: Diaper Tantrum"
+
+[[line]]
+package = "ddmoney420/orangutan-arcade"
+version = "0.9.8"
+id = "f2be25499434f1a3559da4aa9fa69059acedad9912ef62345b998619044e3645"
+title = "Orangutan Arcade"
+
+[[line]]
+package = "ddmoney420/orangutan-arcade-diaper"
+version = "0.1.8"
+id = "cf4ea13f36e332c60b957002cb910660a6cf4cbc924c8436edf7c750a8780568"
 title = "Orangutan Arcade: Diaper Tantrum"
