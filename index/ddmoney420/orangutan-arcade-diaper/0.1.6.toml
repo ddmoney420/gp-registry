@@ -1,0 +1,10 @@
+format = "1"
+name = "ddmoney420/orangutan-arcade-diaper"
+version = "0.1.6"
+id = "0e0e3794c333dae2a8c32dd3ee2cd1038483f9c167a0b18f57ce19ac67fc7fc0"
+kind = "content"
+title = "Orangutan Arcade: Diaper Tantrum"
+size = 20065019
+published = "2026-11-16T04:04:04Z"
+signer = ""
+for_games = ["lex00/donkey-kong"]

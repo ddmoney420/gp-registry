@@ -1,0 +1,25 @@
+gp-look 1
+id orangutan-arcade-diaper
+title Orangutan Arcade: Diaper Tantrum
+art art.txt
+file sound/roles/title_tune.wav
+file sound/roles/game_start.wav
+file sound/roles/stage_intro.wav
+file sound/roles/stage_music.wav
+file sound/roles/hammer_music.wav
+file sound/roles/hurry_music.wav
+file sound/roles/clear.wav
+file sound/roles/pause.wav
+file sound/roles/jump_over.wav
+file sound/takes/jump_over.2.wav
+file sound/roles/walk.wav
+file sound/takes/walk.2.wav
+file sound/roles/jump.wav
+file sound/takes/jump.2.wav
+file sound/roles/smash.wav
+file sound/takes/smash.2.wav
+file sound/roles/death.wav
+file sound/takes/death.2.wav
+file sound/roles/thump.wav
+file sound/takes/thump.2.wav
+file sound/takes/thump.3.wav
