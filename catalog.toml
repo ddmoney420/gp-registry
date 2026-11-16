@@ -1,20 +1,20 @@
 format = "1"
 registry = "ddmoney420-registry"
-signed = "2026-11-16T04:04:05Z"
-expires = "2026-11-23T04:04:05Z"
+signed = "2026-11-16T15:07:31Z"
+expires = "2026-11-23T15:07:31Z"
 
 [[package]]
 name = "ddmoney420/orangutan-arcade"
 kind = "content"
 title = "Orangutan Arcade"
-latest = "0.9.6"
-id = "231503b757cf445f5d1423362deba7e520ec3282ce39a8fbbaca4546e67973db"
+latest = "0.9.7"
+id = "24db0d0539c7a3d85d9c06205b33f7823cea98223e551321292f70a14b850a94"
 for_games = ["lex00/donkey-kong"]
 
 [[package]]
 name = "ddmoney420/orangutan-arcade-diaper"
 kind = "content"
 title = "Orangutan Arcade: Diaper Tantrum"
-latest = "0.1.6"
-id = "0e0e3794c333dae2a8c32dd3ee2cd1038483f9c167a0b18f57ce19ac67fc7fc0"
+latest = "0.1.7"
+id = "33de28f6e9c4af8f7526486f752760d9eae06c187fa58d56e0560b008af02fc1"
 for_games = ["lex00/donkey-kong"]
