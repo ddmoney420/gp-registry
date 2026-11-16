@@ -1,0 +1,10 @@
+format = "1"
+name = "ddmoney420/orangutan-arcade"
+version = "0.9.6"
+id = "231503b757cf445f5d1423362deba7e520ec3282ce39a8fbbaca4546e67973db"
+kind = "content"
+title = "Orangutan Arcade"
+size = 18028406
+published = "2026-11-16T04:04:03Z"
+signer = ""
+for_games = ["lex00/donkey-kong"]
